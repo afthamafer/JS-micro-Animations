@@ -1,0 +1,13 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   /* color: darkblue; */
+    position: relative;
+}
+
+img{
+    float: left;
+    margin-top: 40px;
+}
+p{
+    margin-top: 40px;
+}
